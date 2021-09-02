@@ -3,8 +3,8 @@ package test
 import (
 	"database/sql"
 	"fmt"
-	"github.com/anhsbolic/go-order-service-race-condition/app"
-	"github.com/anhsbolic/go-order-service-race-condition/helper"
+	"go-api-starter/app"
+	"go-api-starter/helper"
 	"github.com/go-playground/validator/v10"
 	"github.com/joho/godotenv"
 	"net/http"

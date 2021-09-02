@@ -1,9 +1,9 @@
 package exception
 
 import (
-	"github.com/anhsbolic/go-order-service-race-condition/helper"
-	"github.com/anhsbolic/go-order-service-race-condition/model/web"
 	"github.com/go-playground/validator/v10"
+	"go-api-starter/helper"
+	"go-api-starter/model/web"
 	"net/http"
 )
 
